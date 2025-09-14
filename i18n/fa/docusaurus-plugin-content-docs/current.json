@@ -1,0 +1,54 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Indexer Services": {
+    "message": "Indexer Services",
+    "description": "The label for category Indexer Services in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Indexer Services.link.generated-index.description": {
+    "message": "Polareum Indexer Services",
+    "description": "The generated-index page description for category Indexer Services in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.IPFS Services": {
+    "message": "IPFS Services",
+    "description": "The label for category IPFS Services in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.IPFS Services.link.generated-index.description": {
+    "message": "Polareum IPFS Services",
+    "description": "The generated-index page description for category IPFS Services in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.KMS Services": {
+    "message": "KMS Services",
+    "description": "The label for category KMS Services in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.KMS Services.link.generated-index.description": {
+    "message": "Polareum KMS Services",
+    "description": "The generated-index page description for category KMS Services in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.NaaS Services": {
+    "message": "NaaS Services",
+    "description": "The label for category NaaS Services in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.NaaS Services.link.generated-index.description": {
+    "message": "Polareum NaaS Services",
+    "description": "The generated-index page description for category NaaS Services in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.WaaS Services": {
+    "message": "WaaS Services",
+    "description": "The label for category WaaS Services in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.WaaS Services.link.generated-index.description": {
+    "message": "Polareum WaaS Services",
+    "description": "The generated-index page description for category WaaS Services in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Webhook Services": {
+    "message": "Webhook Services",
+    "description": "The label for category Webhook Services in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Webhook Services.link.generated-index.description": {
+    "message": "Polareum Webhook Services",
+    "description": "The generated-index page description for category Webhook Services in sidebar tutorialSidebar"
+  }
+}

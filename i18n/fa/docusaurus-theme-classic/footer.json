@@ -1,0 +1,70 @@
+{
+  "link.title.Docs": {
+    "message": "Docs",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.Contact Us": {
+    "message": "Contact Us",
+    "description": "The title of the footer links column with title=Contact Us in the footer"
+  },
+  "link.title.More": {
+    "message": "More",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.Introduction": {
+    "message": "Introduction",
+    "description": "The label of footer link with label=Introduction linking to /docs/intro"
+  },
+  "link.item.label.Indexer": {
+    "message": "Indexer",
+    "description": "The label of footer link with label=Indexer linking to /docs/category/indexer-services"
+  },
+  "link.item.label.IPFS": {
+    "message": "IPFS",
+    "description": "The label of footer link with label=IPFS linking to /docs/category/ipfs-services"
+  },
+  "link.item.label.KMS": {
+    "message": "KMS",
+    "description": "The label of footer link with label=KMS linking to /docs/category/kms-services"
+  },
+  "link.item.label.NaaS": {
+    "message": "NaaS",
+    "description": "The label of footer link with label=NaaS linking to /docs/category/naas-services"
+  },
+  "link.item.label.WaaS": {
+    "message": "WaaS",
+    "description": "The label of footer link with label=WaaS linking to /docs/category/waas-services"
+  },
+  "link.item.label.Webhook": {
+    "message": "Webhook",
+    "description": "The label of footer link with label=Webhook linking to /docs/category/webhook-services"
+  },
+  "link.item.label.LinkedIn": {
+    "message": "LinkedIn",
+    "description": "The label of footer link with label=LinkedIn linking to https://www.linkedin.com/in/polareum/"
+  },
+  "link.item.label.Instagram": {
+    "message": "Instagram",
+    "description": "The label of footer link with label=Instagram linking to https://www.instagram.com/polareum"
+  },
+  "link.item.label.Telegram": {
+    "message": "Telegram",
+    "description": "The label of footer link with label=Telegram linking to https://t.me/polareum"
+  },
+  "link.item.label.Polareum Website": {
+    "message": "Polareum Website",
+    "description": "The label of footer link with label=Polareum Website linking to https://polareum.com"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/Polareum"
+  },
+  "link.item.label.Postman Collections": {
+    "message": "Postman Collections",
+    "description": "The label of footer link with label=Postman Collections linking to https://github.com/Polareum/docs"
+  },
+  "copyright": {
+    "message": "Copyright © 2025 Polareum, Co. Built with Docusaurus.",
+    "description": "The footer copyright"
+  }
+}

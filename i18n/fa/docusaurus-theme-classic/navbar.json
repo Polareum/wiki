@@ -1,0 +1,42 @@
+{
+  "title": {
+    "message": "Polareum Wiki",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Polareum Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Docs": {
+    "message": "Docs",
+    "description": "Navbar item with label Docs"
+  },
+  "item.label.Indexer": {
+    "message": "Indexer",
+    "description": "Navbar item with label Indexer"
+  },
+  "item.label.IPFS": {
+    "message": "IPFS",
+    "description": "Navbar item with label IPFS"
+  },
+  "item.label.KMS": {
+    "message": "KMS",
+    "description": "Navbar item with label KMS"
+  },
+  "item.label.NaaS": {
+    "message": "NaaS",
+    "description": "Navbar item with label NaaS"
+  },
+  "item.label.WaaS": {
+    "message": "WaaS",
+    "description": "Navbar item with label WaaS"
+  },
+  "item.label.Webhook": {
+    "message": "Webhook",
+    "description": "Navbar item with label Webhook"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
