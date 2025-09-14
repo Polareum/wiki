@@ -115,25 +115,32 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Introduction',
                 to: '/docs/intro',
               },
+              {to: '/docs/category/indexer-services', label: 'Indexer'},
+              {to: '/docs/category/ipfs-services', label: 'IPFS'},
+              {to: '/docs/category/kms-services', label: 'KMS'},
+              {to: '/docs/category/naas-services', label: 'NaaS'},
+              {to: '/docs/category/waas-services', label: 'WaaS'},
+              {to: '/docs/category/webhook-services', label: 'Webhook'},
+              
             ],
           },
           {
-            title: 'Community',
+            title: 'Contact Us',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/in/polareum/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Instagram',
+                href: 'https://www.instagram.com/polareum',
               },
               {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'Telegram',
+                href: 'https://t.me/polareum',
               },
             ],
           },
@@ -145,13 +152,21 @@ const config = {
               //   to: '/blog',
               // },
               {
+                label: 'Polareum Website',
+                href: 'https://polareum.com',
+              },
+              {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/Polareum',
+              },
+              {
+                label: 'Postman Collections',
+                href: 'https://github.com/Polareum/docs',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Polareum, Co. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
