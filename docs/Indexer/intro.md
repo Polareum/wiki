@@ -1,3 +1,10 @@
+---
+sidebar_position: 1
+---
+
+# Introduction
+
+
 A **blockchain indexer** is a specialized tool or system designed to index blockchain data, making it easily searchable and accessible. Blockchains are decentralized ledgers that store large amounts of data, such as transaction history, smart contract events, and state changes. Without an indexer, querying and retrieving this data can be slow and inefficient due to the blockchain's sequential and distributed nature.
 
 ### Key Features of a Blockchain Indexer

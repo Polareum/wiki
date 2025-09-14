@@ -1,3 +1,5 @@
+# Solana Blockchain Indexer
+
 **Solana** is a high-performance, decentralized blockchain platform designed to support scalable and efficient decentralized applications (**DApps**) and crypto-assets. It is known for its high throughput, low transaction costs, and innovative architecture.
 
 ### Key Features of Solana

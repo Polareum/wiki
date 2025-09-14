@@ -1,4 +1,4 @@
-# Stellar Blockchain Overview
+# Stellar Blockchain Indexer
 
 Stellar is an open-source blockchain network designed to facilitate fast, low-cost, and scalable cross-border transactions. It aims to connect financial institutions and streamline payments across different currencies and platforms.
 

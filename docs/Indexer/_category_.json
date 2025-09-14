@@ -1,0 +1,8 @@
+{
+  "label": "Indexer Services",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "polareum Indexer Services"
+  }
+}
