@@ -8,8 +8,8 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Polareum services was designed from the ground up to be easily implemented and
+        used to get your blockchain applications up and running quickly.
       </>
     ),
   },
@@ -18,18 +18,18 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Polareum lets you focus on your apps, and we&apos;ll do the chores. Go
+        ahead and build on top of our infrastructure.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Pay-as-You-Go',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Begin with no upfront cost and enjoy a free starting tier. You&apos;ll 
+        only pay based on the exact number of &apos;CU&apos;s you consume. 
       </>
     ),
   },
