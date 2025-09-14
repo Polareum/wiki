@@ -1,0 +1,8 @@
+{
+  "label": "WaaS Services",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Polareum WaaS Services"
+  }
+}
