@@ -1,3 +1,7 @@
+---
+custom_edit_url: null
+---
+
 # Polkadot Blockchain Indexer
 
 Polkadot is a multi-chain, interoperable blockchain network designed to enable different blockchains to interconnect and communicate with each other. Its goal is to address the limitations of traditional blockchains, which typically operate in isolation from one another, by allowing them to share information and collaborate.

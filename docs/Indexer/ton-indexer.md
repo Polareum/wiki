@@ -1,3 +1,7 @@
+---
+custom_edit_url: null
+---
+
 # TON Blockchain Indexer
 
 The **TON (The Open Network)** blockchain is a decentralized, high-performance blockchain platform designed to offer fast, scalable, and secure services for a wide range of applications. Originally developed by the team behind Telegram, TON aims to provide a solution for scalable digital payments, decentralized applications (dApps), and the broader blockchain ecosystem.

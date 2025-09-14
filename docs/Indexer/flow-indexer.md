@@ -1,3 +1,7 @@
+---
+custom_edit_url: null
+---
+
 # Flow Blockchain Indexer
 
 Flow is a fast, decentralized, and developer-friendly blockchain designed for creating and scaling digital assets and applications, particularly focused on gaming, NFTs (Non-Fungible Tokens), and other high-performance decentralized applications (dApps). It was developed by Dapper Labs, the team behind CryptoKitties.
