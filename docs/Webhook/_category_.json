@@ -3,6 +3,6 @@
   "position": 6,
   "link": {
     "type": "generated-index",
-    "description": "Polareum Webhook Services"
+    "description": "  Blockchain Webhook Services provide real-time notifications that trigger whenever specific events occur on a blockchain, such as a new block being mined, a transaction confirmation, or a smart contract event firing. Instead of constantly polling a blockchain node for updates—which can be inefficient and resource-heavy—webhooks push relevant data directly to an application’s backend the moment it happens. This makes it much easier to build responsive dApps, wallets, payment systems, and monitoring tools that react instantly to on-chain activity. Polareum offers webhook services that can be configured for custom events, retries, and high availability. By bridging blockchain activity with off-chain systems, webhook services enable seamless integration of decentralized networks into modern applications."
   }
 }

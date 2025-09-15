@@ -3,6 +3,6 @@
   "position": 4,
   "link": {
     "type": "generated-index",
-    "description": "Polareum NaaS Services"
+    "description": "  Node-as-a-Service (NaaS) in the blockchain ecosystem is a model that allows developers and enterprises to access and run blockchain nodes without the burden of setting up, maintaining, or scaling their own infrastructure. Running a node typically requires significant technical expertise, constant synchronization with the network, and reliable uptime—challenges that can slow down development. With Node-as-a-Service, Polareum handles these complexities and offer ready-to-use APIs, RPC endpoints, and monitoring tools that make interacting with blockchains seamless. This enables teams to focus on building dApps, wallets, and analytics platforms instead of worrying about node reliability. In short, Node-as-a-Service simplifies blockchain development by making node access as easy as a cloud service."
   }
 }

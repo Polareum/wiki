@@ -3,6 +3,6 @@
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "Polareum IPFS Services"
+    "description": "  IPFS services provide infrastructure and tools for storing, sharing, and retrieving data on the InterPlanetary File System (IPFS), a decentralized peer-to-peer protocol designed for distributed content addressing. Instead of relying on centralized servers, IPFS identifies files by their unique cryptographic hash, ensuring that content is verifiable, tamper-proof, and accessible from multiple nodes across the network. IPFS services—such as gateways, pinning providers, and APIs—make it easier for developers and organizations to integrate decentralized storage into their applications without having to run and maintain their own nodes. These services help bridge the gap between raw IPFS infrastructure and practical use cases like hosting websites, managing NFTs, archiving data, and powering Web3 applications."
   }
 }

@@ -3,6 +3,6 @@
   "position": 1,
   "link": {
     "type": "generated-index",
-    "description": "Polareum Indexer Services"
+    "description": "  Blockchain indexers are specialized systems that collect, organize, and make blockchain data easily accessible for applications and users. Since raw blockchain data is stored in a decentralized, append-only ledger, querying it directly can be slow and resource-intensive. Indexers solve this by continuously scanning blocks, transactions, and events, then structuring that information in optimized databases that support fast lookups and complex queries. This allows developers to build user-friendly interfaces, analytics dashboards, wallets, and decentralized applications (dApps) without manually parsing low-level blockchain data. In short, blockchain indexers act as the bridge between complex blockchain records and practical, real-world applications."
   }
 }

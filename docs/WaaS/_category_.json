@@ -3,6 +3,6 @@
   "position": 5,
   "link": {
     "type": "generated-index",
-    "description": "Polareum WaaS Services"
+    "description": "  Wallet-as-a-Service (WaaS) is a blockchain infrastructure model that enables developers and businesses to integrate secure, user-friendly digital wallets into their applications without having to build or manage wallet infrastructure from scratch. A wallet is the gateway for users to interact with blockchains—holding private keys, signing transactions, and managing digital assets—yet building one requires deep expertise in cryptography, security, and compliance. Polareum WaaS simplifies this by offering APIs that handle key management, transaction signing, multi-chain support, and advanced features like multi-party computation (MPC), social login, or custodial/non-custodial options. This allows companies to embed Web3 functionality—such as token transfers, NFT storage, or DeFi interactions—directly into their products while keeping the user experience seamless."
   }
 }

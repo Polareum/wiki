@@ -106,7 +106,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Docs',
+            label: '/',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/docs/category/indexer-services', label: 'Indexer', position: 'left'},
