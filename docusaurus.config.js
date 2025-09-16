@@ -135,7 +135,7 @@ const config = {
               },
               {to: '/docs/category/indexer-services', label: 'Indexer'},
               {to: '/docs/category/ipfs-services', label: 'IPFS'},
-              {to: '/docs/category/kms-services', label: 'KMS'},
+              {to: '/docs/category/kms', label: 'KMS'},
               {to: '/docs/category/naas-services', label: 'NaaS'},
               {to: '/docs/category/waas-services', label: 'WaaS'},
               {to: '/docs/category/webhook-services', label: 'Webhook'},
