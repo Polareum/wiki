@@ -111,7 +111,7 @@ const config = {
           // {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/docs/category/indexer-services', label: 'Indexer', position: 'left'},
           {to: '/docs/category/ipfs-services', label: 'IPFS', position: 'left'},
-          {to: '/docs/category/kms-services', label: 'KMS', position: 'left'},
+          {to: '/docs/category/kms', label: 'KMS', position: 'left'},
           {to: '/docs/category/naas-services', label: 'NaaS', position: 'left'},
           {to: '/docs/category/waas-services', label: 'WaaS', position: 'left'},
           {to: '/docs/category/webhook-services', label: 'Webhook', position: 'left'},

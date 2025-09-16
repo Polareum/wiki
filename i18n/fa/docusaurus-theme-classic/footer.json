@@ -25,7 +25,7 @@
   },
   "link.item.label.KMS": {
     "message": "KMS",
-    "description": "The label of footer link with label=KMS linking to /docs/category/kms-services"
+    "description": "The label of footer link with label=KMS linking to /docs/category/kms"
   },
   "link.item.label.NaaS": {
     "message": "NaaS",
